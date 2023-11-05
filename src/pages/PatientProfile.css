@@ -1,0 +1,91 @@
+
+.patient-profile {
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 30px;
+  }
+  
+  .patient-view {
+    text-align: center;
+    font-size: 24px;
+  }
+  .b{
+    width: 50%;
+  }
+  .banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+  }
+  
+  .banner img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .b{
+    width: 60%;
+  }
+  .patient-info {
+    font-size: 18px;
+  }
+  
+  .goal-reached-dashboard {
+    margin-top: 30px;
+  }
+  
+  .progress-bars {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .progress-bar {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .progress-bar h4 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .progress-bar progress {
+    width: 100%;
+    height: 10px;
+  }
+  
+  .progress-bar span {
+    float: right;
+  }
+  
+  .details {
+    margin-top: 30px;
+  }
+  
+  .detail-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .detail-row label {
+    font-weight: bold;
+  }
+  .ic{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: left;
+  }
+  .app-footer {
+    margin-top: 30px;
+    text-align: center;
+  }

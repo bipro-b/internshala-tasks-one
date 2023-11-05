@@ -1,0 +1,27 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+.v{
+  width: 40%;
+  
+}
+.dash_board_one{
+  background-color: #012E57;
+  padding: 5%;
+  border-radius: 15px;
+}
+  .dash_board{
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    justify-content: space-around;
+     
+    }
+
+  .ER{
+    background-color:white,
+
+  }
