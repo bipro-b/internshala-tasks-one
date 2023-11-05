@@ -3,13 +3,12 @@ import { CircularProgressbar, buildStyles } from "react-circular-progressbar";
 import { Flex, Box } from "rebass";
 import "react-circular-progressbar/dist/styles.css";
 
-//import SemiCircleProgressBar from "react-progressbar-semicircle";
 export default function Gaol() {
   const percentage = 50;
   return (
     <div className="v  mx-auto">
       <div className="dash_board_one">
-      <span style={{color:'white', marginLeft:'80px'}}>Gaol Reached</span>
+        <span style={{ color: "white", marginLeft: "80px" }}>Gaol Reached</span>
         <div className="dash_board">
           <Box
             id="container"

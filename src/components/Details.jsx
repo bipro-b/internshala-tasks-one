@@ -1,9 +1,4 @@
 import { useState, useEffect } from "react";
-import { FaPhone } from 'react-icons/fa';
-import { AiOutlineMail } from 'react-icons/ai';
-import { GiHealthNormal } from 'react-icons/gi';
-import { FaHeartbeat } from 'react-icons/fa';
-import { FaUserMd } from 'react-icons/fa';
 
 const Details = () => {
   const [medicalData, setMedicalData] = useState("");
